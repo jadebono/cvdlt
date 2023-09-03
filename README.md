@@ -261,6 +261,6 @@ Mallia, J. (14 July 2022). [Episodju 058 ma’ Joe Anthony Debono | Jon Mallia P
 ## `Github`
 
 - **Github account:** [jadebono](https://github.com/jadebono)
-- **Curriculum vitae on Github:** [Joseph Anthony Debono's Curriculum Vitae](https://github.com/jadebono/curriculum_vitae)
+- **Curriculum vitae on Github:** [Joseph Anthony Debono's Curriculum Vitae](https://github.com/jadebono/cvdlt)
 
 ---
