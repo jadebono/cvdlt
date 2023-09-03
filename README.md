@@ -65,7 +65,7 @@ Introduction to the Virtual Financial Assets Act
 
 Excellent knowledge of blockchain and distributed ledger technologies  
 Wide Experience of DLT architecture and decentralized applications  
-Author and lecturer in the field with a special interest in the intersection of the financial, legal and technological of Blockchain and DLT
+Author and lecturer in the field with a special interest in the intersection of the financial, legal and technological aspects of Blockchain and DLT
 
 #### `Operating Systems`
 
