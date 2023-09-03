@@ -93,29 +93,25 @@ Author and lecturer in the field with a special interest in the intersection of 
 
 ## `Work Experience`
 
-1.  **Assistant Lecturer (TR4) in Blockchain Education Studies** for the [Master of Science in Blockchain and Distributed Ledger Technologies](https://www.um.edu.mt/courses/overview/PMSCBKDBFNFTT9-2022-3-O), [Centre for DLT, University of Malta](https://www.um.edu.mt/dlt/masters/)  
-    **Appointment**: 6 March 2023 - 6 March 2024  
-    **Units:**
-    - **[DLT5000](https://www.um.edu.mt/courses/studyunit/DLT5003):** Introduction to Blockchain, DLTs and Cryptocurrencies (responsibility: various topics related to this study-unit including Bitcoin and Austrian Economics)
-    - **[DLT5001](https://www.um.edu.mt/courses/studyunit/DLT5001):** Applied Project (grading of projects)
-    - **[DLT5141](https://www.um.edu.mt/courses/studyunit/DLT5141):** Introduction to DLT Architecture and Decentralised Applications (responsibility: teaching coding to students without a coding background)
-1.  **Full-time teacher** (secondary sector) with the [Ministry for Education, Sport, Youth, Research and Innovation](https://meae.gov.mt/en/public_consultations/mede/pages/home.aspx)  
-     **Appointment**: 1997 - current  
-     **Subjects:**
-    - ICT
-    - History
-1.  **Visiting Assistant Lecturer in Classics**, [Department of Classics and Archaeology, Faculty of Arts, University of Malta](https://www.um.edu.mt/arts/classics-archaeo/)  
-    **Appointment:** 2011-2012  
-    **Units:**
-    - Classical Mythology in Pictorial Art
-1.  **Visiting Assistant Lecturer**, [DegreePlus, University of Malta](https://www.um.edu.mt/study/degreeplus/)  
-    **Appointment:** 2011  
-     **Units:**
-    - **[DGP0400](https://www.um.edu.mt/courses/studyunit/dgp0400):** Lingua Latina ab Initio (Course initiator)
-1.  **Visiting Assistant Lecturer**, [Junior College, University of Malta](https://www.jc.um.edu.mt/)  
-    **Appointment:** 2011-2013  
-     **Subjects:**
-    - [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies) (Course developer and initiator)
+**Assistant Lecturer (TR4) in Blockchain Education Studies** for the [Master of Science in Blockchain and Distributed Ledger Technologies](https://www.um.edu.mt/courses/overview/PMSCBKDBFNFTT9-2022-3-O), [Centre for DLT, University of Malta](https://www.um.edu.mt/dlt/masters/)  
+ **Appointment**: 6 March 2023 - 6 March 2024  
+ **Units:** - **[DLT5000](https://www.um.edu.mt/courses/studyunit/DLT5003):** Introduction to Blockchain, DLTs and Cryptocurrencies (responsibility: various topics related to this study-unit including Bitcoin and Austrian Economics) - **[DLT5001](https://www.um.edu.mt/courses/studyunit/DLT5001):** Applied Project (grading of projects) - **[DLT5141](https://www.um.edu.mt/courses/studyunit/DLT5141):** Introduction to DLT Architecture and Decentralised Applications (responsibility: teaching coding to students without a coding background)
+
+**Full-time teacher** (secondary sector) with the [Ministry for Education, Sport, Youth, Research and Innovation](https://meae.gov.mt/en/public_consultations/mede/pages/home.aspx)  
+ **Appointment**: 1997 - current  
+ **Subjects:** ICT, History
+
+**Visiting Assistant Lecturer in Classics**, [Department of Classics and Archaeology, Faculty of Arts, University of Malta](https://www.um.edu.mt/arts/classics-archaeo/)  
+ **Appointment:** 2011-2012  
+ **Unit:** Classical Mythology in Pictorial Art
+
+**Visiting Assistant Lecturer**, [DegreePlus, University of Malta](https://www.um.edu.mt/study/degreeplus/)  
+ **Appointment:** 2011  
+ **Units** **[DGP0400](https://www.um.edu.mt/courses/studyunit/dgp0400):** Lingua Latina ab Initio (Course initiator)
+
+**Visiting Assistant Lecturer**, [Junior College, University of Malta](https://www.jc.um.edu.mt/)  
+ **Appointment:** 2011-2013  
+ **Subjects** [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies) (Course developer and initiator)
 
 ---
 
