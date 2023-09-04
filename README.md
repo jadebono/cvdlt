@@ -29,6 +29,10 @@
 
 ### `Other Certifications`
 
+[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc1e491e69-cd5a-4337-90c2-4d1b9840e54e/javascript-algorithms-and-data-structures)  
+**Date:** 2023  
+**Institution:** [FreeCodeCamp](https://www.freecodecamp.org/)
+
 [MERN Full Stack Development Bootcamp](https://iict.mcast.edu.mt/full-stack-development-bootcamp/) - Distinction  
 **Date:** 2022  
 **Level:** [EQF](https://europa.eu/europass/en/europass-tools/european-qualifications-framework) [Level 5 with 6 ECTS](https://europa.eu/europass/en/description-eight-eqf-levels)  
@@ -55,23 +59,23 @@ Introduction to the Virtual Financial Assets Act
 
 #### `Programming Languages`
 
-**Python:** Intermediate proficiency  
-**JavaScript (Node & React):** Certified in building full stack applications using the MERN stack  
-**Solidity:** Intermediate skills in smart contract development for blockchain platforms  
-**Golang:** Intermediate proficiency  
-**HTML & CSS:** Solid understanding and experience in web design and development. Preference for Tailwind over vanilla CSS.
+1. **Python:** Intermediate proficiency
+1. **JavaScript (Node & React):** Certified in building full stack applications using the MERN stack
+1. **Solidity:** Intermediate skills in smart contract development for blockchain platforms
+1. **Golang:** Intermediate proficiency
+1. **HTML & CSS:** Solid understanding and experience in web design and development. Preference for Tailwind over vanilla CSS.
 
 #### `Blockchain & DLT`
 
-Excellent knowledge of blockchain and distributed ledger technologies  
-Wide Experience of DLT architecture and decentralized applications  
-Author and lecturer in the field with a special interest in the intersection of the financial, legal and technological aspects of Blockchain and DLT
+1. Excellent knowledge of blockchain and distributed ledger technologies
+1. Wide Experience of DLT architecture and decentralized applications
+1. Author and lecturer in the field with a special interest in the intersection of the financial, legal and technological aspects of Blockchain and DLT
 
 #### `Operating Systems`
 
-**Linux (Debian and its forks):** Primary operating system, with strong preference for CLI operations  
-**MacOS:** Proficient user happy with the CLI though little experience with native Mac applications that have no Linux equivalent  
-**Windows:** Familiar with all versions of Windows since Windows 3.0
+1. **Linux (Debian and its forks):** Primary operating system, with strong preference for CLI operations
+1. **MacOS:** Proficient user happy with the CLI though little experience with native Mac applications that have no Linux equivalent
+1. **Windows:** Familiar with all versions of Windows since Windows 3.0
 
 #### `Development Tools and Platforms`
 
