@@ -260,3 +260,13 @@ Mallia, J. (14 July 2022). [Episodju 058 ma’ Joe Anthony Debono | Jon Mallia P
 - **Curriculum vitae on Github:** [Joseph Anthony Debono's Curriculum Vitae](https://github.com/jadebono/cvdlt)
 
 ---
+
+## `Endorsements and References`
+
+### `Professor Joshua Ellul`
+
+[**Professor Joshua Ellul**](https://staff.um.edu.mt/joshua.ellul/)  
+Computer Science  
+Faculty of Information & Communication Technology  
+[University of Malta](https://www.um.edu.mt/)  
+[Email](mailto:joshua.ellul@um.edu.mt)
