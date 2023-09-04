@@ -29,25 +29,25 @@
 
 ### `Other Certifications`
 
-[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc1e491e69-cd5a-4337-90c2-4d1b9840e54e/javascript-algorithms-and-data-structures)  
+**[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc1e491e69-cd5a-4337-90c2-4d1b9840e54e/javascript-algorithms-and-data-structures)**  
 **Date:** 2023  
 **Institution:** [FreeCodeCamp](https://www.freecodecamp.org/)
 
-[MERN Full Stack Development Bootcamp](https://iict.mcast.edu.mt/full-stack-development-bootcamp/) - Distinction  
+**[MERN Full Stack Development Bootcamp](https://iict.mcast.edu.mt/full-stack-development-bootcamp/)** - Distinction  
 **Date:** 2022  
 **Level:** [EQF](https://europa.eu/europass/en/europass-tools/european-qualifications-framework) [Level 5 with 6 ECTS](https://europa.eu/europass/en/description-eight-eqf-levels)  
 **Institution:** [Malta College of Arts, Science and Technology (MCAST)](https://mcast.edu.mt/)
 
-[Award in Company Law Fundamentals](https://www.advisory21.com.mt/21-academy/21-academy-time-table/award-in-company-law-fundamentals/)  
+**[Award in Company Law Fundamentals](https://www.advisory21.com.mt/21-academy/21-academy-time-table/award-in-company-law-fundamentals/)**  
 **Date:** 2020  
 **Level:** [EQF](https://europa.eu/europass/en/europass-tools/european-qualifications-framework) [Level 7](https://europa.eu/europass/en/description-eight-eqf-levels)  
 **Institution:** [Advisory 21](https://www.advisory21.com.mt/)
 
-Introduction to the Virtual Financial Assets Act  
+**Introduction to the Virtual Financial Assets Act**  
 **Date:** 2018  
 **Institution:** [The Institute of Financial Services Practitioners.](https://ifsp.org.mt/)
 
-[Oxford Blockchain Strategy Programme](https://www.sbs.ox.ac.uk/programmes/executive-education/online-programmes/oxford-blockchain-strategy-programme)  
+**[Oxford Blockchain Strategy Programme](https://www.sbs.ox.ac.uk/programmes/executive-education/online-programmes/oxford-blockchain-strategy-programme)**  
 **Date:** 2018  
 **Institution:** [Saïd Business School, University of Oxford.](https://www.sbs.ox.ac.uk/)
 
