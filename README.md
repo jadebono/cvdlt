@@ -267,6 +267,13 @@ Mallia, J. (14 July 2022). [Episodju 058 ma’ Joe Anthony Debono | Jon Mallia P
 
 ## `Endorsements and References`
 
+### `Dr Juanita Brockdorff`
+
+[**Dr Juanita Brockdorff**](https://www.brockdorffgrechlaw.com/personnel/juanita-brockdorff/)  
+Founding Partner  
+[Brockdorff Grech Law](https://www.brockdorffgrechlaw.com/)  
+[Email](mailto:jb@brockdorffgrechlaw.com)
+
 ### `Professor Joshua Ellul`
 
 [**Professor Joshua Ellul**](https://staff.um.edu.mt/joshua.ellul/)  
