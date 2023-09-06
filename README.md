@@ -79,7 +79,42 @@
 
 #### `Development Tools and Platforms`
 
-**Github**
+**Version Control:**
+
+1. GitHub: Active user with a portfolio of projects on [jadebono's GitHub](https://github.com/jadebono).
+1. Familiarity with Git commands, branching, creating repositories, pushing them, cloning repositories.
+
+**Integrated Development Environments (IDEs):**
+
+1. Visual Studio Code on Debian
+
+**Blockchain Development:**
+
+1. [Remix IDE](https://remix.ethereum.org/): Used extensively for my solidity programs for my MSc Blockchain and DLT
+1. Truffle Suite: Basic knowledge of Truffle
+1. Ganache: Basic knowledge of Ganache
+1. [Hardhat](https://hardhat.org/): Basic knowledge of Hardhat
+1. Hyperledger: Basic knowledge of Hyperledger concepts
+1. MetaMask
+
+**Web Development:**
+
+1. Node.js
+1. React
+1. Express.js
+
+**Database Management:**
+
+1. MongoDB: General familiarity and goto for my MERN projects
+
+**API Development & Testing**
+
+Postman: through a VSCode extension
+
+**Project Management & Collaboration:**
+
+1. Microsoft Teams
+1. Slack
 
 ### `Code`
 
