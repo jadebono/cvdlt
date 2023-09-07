@@ -57,6 +57,11 @@
 
 ### `Technical Skills`
 
+#### `Hardware Proficiencies`
+
+1. **PC Assembly & Optimization:** Extensive experience in assembling, configuring and optimizing personal computers, dating back to the era of Intel's 486 processors. Hands-on expertise with a wide variety of Intel and AMD CPUs, and GPUs since the release of the 3DFX chip. Proficient in understanding hardware compatibility, performance tuning, and system optimization.
+1. **Microcomputers & Embedded Systems:** Proficient in building and configuring Raspberry Pi systems for diverse applications, showcasing adaptability in leveraging compact computing solutions for specific use cases.
+
 #### `Programming Languages`
 
 1. **Python:** Intermediate proficiency
@@ -74,8 +79,9 @@
 #### `Operating Systems`
 
 1. **Linux (Debian and its forks):** Primary operating system, with strong preference for CLI operations
-1. **MacOS:** Proficient user happy with the CLI though little experience with native Mac applications that have no Linux equivalent
-1. **Windows:** Familiar with all versions of Windows since Windows 3.0
+1. **MacOS:** Proficient with the CLI though little experience with native Mac applications that have no Linux equivalent
+1. **Windows:** Highly experienced with all versions of Windows from Windows 3.0 to Windows 10
+1. **MS-DOS:**
 
 #### `Development Tools and Platforms`
 
