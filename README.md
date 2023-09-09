@@ -68,7 +68,8 @@
 1. **JavaScript (Node & React):** Certified in building full stack applications using the MERN stack
 1. **Solidity:** Intermediate skills in smart contract development for blockchain platforms
 1. **Golang:** Intermediate proficiency
-1. **HTML & CSS:** Solid understanding and experience in web design and development. Preference for Tailwind over vanilla CSS.
+1. **HTML & CSS:** Solid understanding and experience in web design and development.
+1. **CSS Frameworks:** Bootstrap, Bulma, Materialize, Tailwind
 
 #### `Blockchain & DLT`
 
