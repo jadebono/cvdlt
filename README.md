@@ -8,25 +8,6 @@
 
 ---
 
-## Table of Contents
-
-1. [Education](#education)
-1. [Technical Profile](#technical-profile)
-1. [Work Experience](#work-experience)
-1. [Publications](#publications)
-1. [Awards](#awards)
-1. [Conferences and Seminars](#conferences-and-seminars)
-1. [Public Lectures and Presentations](#public-lectures-and-presentations)
-1. [Interviews](#interviews)
-1. [Professional Warrant](#professional-warrant)
-1. [Projects](#projects)
-1. [Community](#community)
-1. [Languages](#languages)
-1. [Github](#github)
-1. [Endorsements and References](#endorsements-and-references)
-
----
-
 ## `Education`
 
 ### `Degrees`
