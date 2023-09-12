@@ -3,7 +3,7 @@
 **Address**: Redacted for security purposes. Please request by email if necessary.  
 **Email**: [joe@jadebono.com](joe@jadebono.com)  
 **Mobile Number**: Redacted for security purposes. Please request by email if necessary.  
-**Date of birth:** 10 June 1975 .
+**Date of birth:** 10 June 1975.  
 **Location:** [Malta](https://en.wikipedia.org/wiki/Malta), EU.
 
 ---
