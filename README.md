@@ -61,8 +61,8 @@
 
 #### `Hardware Proficiencies`
 
-1. **PC Assembly & Optimization:** Extensive experience in assembling, configuring and optimizing personal computers, dating back to the era of Intel's 486 processors. Hands-on expertise with a wide variety of Intel and AMD CPUs, and GPUs since the release of the 3DFX chip. Proficient in understanding hardware compatibility, performance tuning, and system optimization.
-1. **Microcomputers & Embedded Systems:** Proficient in building and configuring Raspberry Pi systems for diverse applications, showcasing adaptability in leveraging compact computing solutions for specific use cases.
+1. **PC Assembly & Optimization:** Extensive experience in assembling, configuring and optimizing personal computers, dating back to the era of Intel's 486 processors. Hands-on expertise with a wide variety hardware devices and Intel, AMD and Cyrix CPUs. Experience with GPUs since the release of the 3DFX chip. Proficient in understanding hardware compatibility, performance tuning, and system optimization.
+1. **Microcomputers & Embedded Systems:** Proficient in building and configuring Raspberry Pi systems for diverse applications.
 
 #### `Programming Languages`
 
