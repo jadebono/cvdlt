@@ -84,7 +84,7 @@
 1. **Linux (Debian and its forks):** Primary operating system, with strong preference for CLI operations
 1. **MacOS:** Proficient with the CLI though little experience with native Mac applications that have no Linux equivalent
 1. **Windows:** Highly experienced with all versions of Windows from Windows 3.0 to Windows 10
-1. **MS-DOS:**
+1. **MS-DOS:** The first operating system I used. I am a CLI native.
 
 #### `Development Tools and Platforms`
 
