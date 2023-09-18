@@ -31,6 +31,10 @@
 
 ### `Other Certifications`
 
+**[Responsive Web Design](https://www.freecodecamp.org/certification/fcc1e491e69-cd5a-4337-90c2-4d1b9840e54e/responsive-web-design)**  
+**Date:** 2023  
+**Institution:** [FreeCodeCamp](https://www.freecodecamp.org/)
+
 **[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc1e491e69-cd5a-4337-90c2-4d1b9840e54e/javascript-algorithms-and-data-structures)**  
 **Date:** 2023  
 **Institution:** [FreeCodeCamp](https://www.freecodecamp.org/)
