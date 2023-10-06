@@ -131,6 +131,7 @@ Postman: through a VSCode extension
 
 ### `Code`
 
+1. [Bitscope - A Bitcoin Blockchain Explorer](https://github.com/jadebono/bitscope) A MERN stack Bitcoin blockchain explorer app
 1. [100 Golang Exercises](https://github.com/jadebono/go_exercises) A set of Golang exercises with answers for students to solve and drill
 1. [100 Python Exercises](https://github.com/jadebono/python_exercises) A set of Python exercises with answers for students to solve and drill (ongoing project)
 1. [100 Javascript Exercises](https://github.com/jadebono/100jsexercises) A set of Python exercises with answers for students to solve and drill (ongoing project)
