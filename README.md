@@ -149,6 +149,9 @@ Postman: through a VSCode extension
  **Appointment**: 6 March 2023 - 6 March 2024  
  **Units:** - **[DLT5000](https://www.um.edu.mt/courses/studyunit/DLT5003):** Introduction to Blockchain, DLTs and Cryptocurrencies (responsibility: various topics related to this study-unit including Bitcoin and Austrian Economics) - **[DLT5001](https://www.um.edu.mt/courses/studyunit/DLT5001):** Applied Project (grading of projects) - **[DLT5141](https://www.um.edu.mt/courses/studyunit/DLT5141):** Introduction to DLT Architecture and Decentralised Applications (responsibility: teaching coding to students without a coding background)
 
+**Senior Advisor** for Blockchain, Distributed Ledger Technology and Virtual Financial Assets for [Zeta Financial](https://zeta-financial.com/), a financial and corporate services provider  
+**Appointment**: Jan 2018 - Sep 2019
+
 **Full-time teacher** (secondary sector) with the [Ministry for Education, Sport, Youth, Research and Innovation](https://meae.gov.mt/en/public_consultations/mede/pages/home.aspx)  
  **Appointment**: 1997 - current  
  **Subjects:** ICT, History
