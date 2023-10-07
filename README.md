@@ -137,7 +137,6 @@ Postman: through a VSCode extension
 1. [100 Javascript Exercises](https://github.com/jadebono/100jsexercises) A set of Python exercises with answers for students to solve and drill (ongoing project)
 1. [pwdgen](https://github.com/jadebono/pwdgen) A deterministic master password generator written in Golang. With both debian and win64 versions
 1. [mastergen](https://github.com/jadebono/mastergen_go) A sha256-based master password generator written in Golang.
-1. [A React-Redux project template](https://github.com/jadebono/react-redux-toolkit) A react redux toolkit template with tailwind for my own general use
 1. [React Mastergen](https://github.com/jadebono/MasterGen) A react version of mastergen
 1. [τεknοskεnα - MCAST Fullstack Development Assignment](https://github.com/jadebono/jadFSD) A shopping fullstack application presented for the final assignment of my FullStack development bootcamp
 1. [The Lazy Lawyer](https://github.com/jadebono/Lex) A react application for lawyers to search the codices of Maltese law and retrieve requested paragraphs in either Maltese and English (proof of concept)
