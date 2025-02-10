@@ -1,10 +1,40 @@
 # `Curriculum Vitae of Joseph Anthony Debono`
 
-**Address**: Redacted for security purposes. Please request by email if necessary.  
+**Address**: [Malta](<[Malta](https://maps.app.goo.gl/UboJ8p7sg5cGAAJcA)>)
 **Email**: [joe@jadebono.com](joe@jadebono.com)  
 **Mobile Number**:  
 **Date of birth:** 10 June 1975.  
 **Location:** [Malta](https://en.wikipedia.org/wiki/Malta), EU.
+
+---
+
+## `Work Experience`
+
+**Backend Developer** at [RS2 P.L.C.](https://www.rs2.com/) - Developer of backend applications on Oracle for a digital payments corporation
+**Appointment**: 3 June 2024 - current
+
+**Assistant Lecturer (TR4) in Blockchain Education Studies** for the [Master of Science in Blockchain and Distributed Ledger Technologies](https://www.um.edu.mt/courses/overview/PMSCBKDBFNFTT9-2022-3-O), [Centre for DLT, University of Malta](https://www.um.edu.mt/dlt/masters/)  
+ **Appointment**: 6 March 2023 - 6 March 2024  
+ **Units:** - **[DLT5000](https://www.um.edu.mt/courses/studyunit/DLT5003):** Introduction to Blockchain, DLTs and Cryptocurrencies (responsibility: various topics related to this study-unit including Bitcoin and Austrian Economics) - **[DLT5001](https://www.um.edu.mt/courses/studyunit/DLT5001):** Applied Project (grading of projects) - **[DLT5141](https://www.um.edu.mt/courses/studyunit/DLT5141):** Introduction to DLT Architecture and Decentralised Applications (responsibility: teaching coding to students without a coding background)
+
+**Senior Advisor** for Blockchain, Distributed Ledger Technology and Virtual Financial Assets for [Zeta Financial](https://zeta-financial.com/), a financial and corporate services provider  
+**Appointment**: Jan 2018 - Sep 2019
+
+**Full-time teacher** (secondary sector) with the [Ministry for Education, Sport, Youth, Research and Innovation](https://meae.gov.mt/en/public_consultations/mede/pages/home.aspx)  
+ **Appointment**: 1997 - June 2024  
+ **Subjects:** ICT, History
+
+**Visiting Assistant Lecturer in Classics**, [Department of Classics and Archaeology, Faculty of Arts, University of Malta](https://www.um.edu.mt/arts/classics-archaeo/)  
+ **Appointment:** 2011-2012  
+ **Unit:** Classical Mythology in Pictorial Art
+
+**Visiting Assistant Lecturer**, [DegreePlus, University of Malta](https://www.um.edu.mt/study/degreeplus/)  
+ **Appointment:** 2011  
+ **Units** **[DGP0400](https://www.um.edu.mt/courses/studyunit/dgp0400):** Lingua Latina ab Initio (Course initiator)
+
+**Visiting Assistant Lecturer**, [Junior College, University of Malta](https://www.jc.um.edu.mt/)  
+ **Appointment:** 2011-2013  
+ **Subjects** [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies) (Course developer and initiator)
 
 ---
 
@@ -74,6 +104,8 @@
 1. **JavaScript (Node & React):** Certified in building full stack applications using the MERN stack
 1. **Solidity:** Intermediate skills in smart contract development for blockchain platforms
 1. **Golang:** Intermediate proficiency
+1. **Pl/SQL** Intermediate proficiency
+1. **SQL** Proficient
 1. **HTML & CSS:** Solid understanding and experience in web design and development.
 1. **CSS Frameworks:** Bootstrap, Bulma, Materialize, Tailwind
 
@@ -100,6 +132,7 @@
 **Integrated Development Environments (IDEs):**
 
 1. Visual Studio Code on Debian
+2. SQl Developer
 
 **Blockchain Development:**
 
@@ -141,33 +174,6 @@ Postman: through a VSCode extension
 1. [React Mastergen](https://github.com/jadebono/MasterGen) A react version of mastergen
 1. [τεknοskεnα - MCAST Fullstack Development Assignment](https://github.com/jadebono/jadFSD) A shopping fullstack application presented for the final assignment of my FullStack development bootcamp
 1. [The Lazy Lawyer](https://github.com/jadebono/Lex) A react application for lawyers to search the codices of Maltese law and retrieve requested paragraphs in either Maltese and English (proof of concept)
-
----
-
-## `Work Experience`
-
-**Assistant Lecturer (TR4) in Blockchain Education Studies** for the [Master of Science in Blockchain and Distributed Ledger Technologies](https://www.um.edu.mt/courses/overview/PMSCBKDBFNFTT9-2022-3-O), [Centre for DLT, University of Malta](https://www.um.edu.mt/dlt/masters/)  
- **Appointment**: 6 March 2023 - 6 March 2024  
- **Units:** - **[DLT5000](https://www.um.edu.mt/courses/studyunit/DLT5003):** Introduction to Blockchain, DLTs and Cryptocurrencies (responsibility: various topics related to this study-unit including Bitcoin and Austrian Economics) - **[DLT5001](https://www.um.edu.mt/courses/studyunit/DLT5001):** Applied Project (grading of projects) - **[DLT5141](https://www.um.edu.mt/courses/studyunit/DLT5141):** Introduction to DLT Architecture and Decentralised Applications (responsibility: teaching coding to students without a coding background)
-
-**Senior Advisor** for Blockchain, Distributed Ledger Technology and Virtual Financial Assets for [Zeta Financial](https://zeta-financial.com/), a financial and corporate services provider  
-**Appointment**: Jan 2018 - Sep 2019
-
-**Full-time teacher** (secondary sector) with the [Ministry for Education, Sport, Youth, Research and Innovation](https://meae.gov.mt/en/public_consultations/mede/pages/home.aspx)  
- **Appointment**: 1997 - current  
- **Subjects:** ICT, History
-
-**Visiting Assistant Lecturer in Classics**, [Department of Classics and Archaeology, Faculty of Arts, University of Malta](https://www.um.edu.mt/arts/classics-archaeo/)  
- **Appointment:** 2011-2012  
- **Unit:** Classical Mythology in Pictorial Art
-
-**Visiting Assistant Lecturer**, [DegreePlus, University of Malta](https://www.um.edu.mt/study/degreeplus/)  
- **Appointment:** 2011  
- **Units** **[DGP0400](https://www.um.edu.mt/courses/studyunit/dgp0400):** Lingua Latina ab Initio (Course initiator)
-
-**Visiting Assistant Lecturer**, [Junior College, University of Malta](https://www.jc.um.edu.mt/)  
- **Appointment:** 2011-2013  
- **Subjects** [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies) (Course developer and initiator)
 
 ---
 
